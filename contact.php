@@ -4,7 +4,7 @@
 		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<title>Ecommerce Fajar</title>
+		<title>MrclL's Store</title>
 		
 		<!-- fonts -->
 		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100" />
@@ -41,7 +41,7 @@
 
 		<nav class="navbar navbar-expand-lg navbar-light" id="navbar">
 			<div class="container">
-				<a class="navbar-brand home" href="index.php">FajarStore</a>
+				<a class="navbar-brand home" href="index.php">MrclL's Store</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
@@ -115,12 +115,12 @@
 							<div class="card-body">
 								<form action="contact.php" method="post">
 									<div class="form-group">
-										<label>Name</label>
-										<input type="text" name="name" class="form-control" required>
+										<label>Whastapp</label>
+										<input type="text" name="081381685954" class="form-control" required>
 									</div>
 									<div class="form-group">
 										<label>Email</label>
-										<input type="email" name="email" class="form-control" required>
+										<input type="email" name="mrclwangyyy@gmail.com" class="form-control" required>
 									</div>
 									<div class="form-group">
 										<label>Subject</label>
