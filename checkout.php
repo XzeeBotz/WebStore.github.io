@@ -4,7 +4,7 @@
 		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<title>Ecommerce Fajar</title>
+		<title>Ecommerce MrclL</title>
 		
 		<!-- fonts -->
 		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100" />
@@ -41,7 +41,7 @@
 
 		<nav class="navbar navbar-expand-lg navbar-light" id="navbar">
 			<div class="container">
-				<a class="navbar-brand home" href="index.php">FajarStore</a>
+				<a class="navbar-brand home" href="index.php">MrclL's Store</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
